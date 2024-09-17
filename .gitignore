@@ -3,3 +3,4 @@ LLM_model/
 venv/
 customer_assistant_data.csv
 .env
+results/
